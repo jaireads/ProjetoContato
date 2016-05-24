@@ -358,6 +358,6 @@ public class Janela extends javax.swing.JFrame {
         jTextFieldNome.setText("");
         jTextFieldCpf.setText("");
         jTextFieldTipo.setText("");
-        jTextFieldDescricao.setText("");
+        jTextFieldDescricao.setText("");        
     }
 }
